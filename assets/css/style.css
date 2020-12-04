@@ -1,0 +1,34 @@
+body {
+    background-image: url("../img/sapin.jpg");
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    border-radius: 20px;
+    opacity: 0.85;
+}
+
+h1 {
+    font-family: "Candcu__";
+}
+
+h2 {
+    color: #3B8B2E;
+}
+
+p {
+    color: #3B8B2E;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer {
+    background-color: #25531D;
+}
+
+@font-face {
+    font-family: "Candcu__";
+    src: url("../font/Candcu__.ttf")
+}
